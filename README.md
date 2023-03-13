@@ -1,4 +1,4 @@
-This repository hosts the [HTML Standard](https://html.spec.whatwg.org/).
+# 연습 수정#
 
 ### Code of conduct
 
